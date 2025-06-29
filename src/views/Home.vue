@@ -26,9 +26,9 @@ import web8 from "@/assets/floating_websites/web8.webp";
           class="jos home_de"
           data-jos_animation="fade-right"
         >
-          <div class="jos" data-jos_animation="flip-down">So</div>
+          <div class="jos" data-jos_animation="flip-down">jadi</div>
           <div class="jos" data-jos_animation="flip-down" data-jos_delay="0">
-            , I built an animation
+            selamat datang di website
           </div>
         </div>
         <div
@@ -42,7 +42,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
             data-jos_animation="flip-down"
             data-jos_delay="0.2"
           >
-            library that can instantly
+            resmi kkn 130 desa kenaiban
           </div>
 
           <div
