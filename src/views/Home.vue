@@ -26,9 +26,9 @@ import web8 from "@/assets/floating_websites/web8.webp";
           class="jos home_de"
           data-jos_animation="fade-right"
         >
-          <div class="jos" data-jos_animation="flip-down">se</div>
+          <div class="jos" data-jos_animation="flip-down">Se</div>
           <div class="jos" data-jos_animation="flip-down" data-jos_delay="0">
-             lamat datang di web
+             lamat Datang di Web
           </div>
         </div>
         <div
@@ -42,7 +42,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
             data-jos_animation="flip-down"
             data-jos_delay="0.2"
           >
-            resmi kkn 130 desa kenaiban
+            Resmi KKN 130 Desa Kenaiban
           </div>
 
           <div
@@ -50,7 +50,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
             data-jos_animation="flip-down"
             data-jos_delay="0.5"
           >
-            semoga menikmati
+            Selamat Menikmati
           </div>
         </div>
         <!-- <div></div> -->
