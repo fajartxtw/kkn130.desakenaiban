@@ -28,7 +28,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         >
           <div class="jos" data-jos_animation="flip-down">jadi</div>
           <div class="jos" data-jos_animation="flip-down" data-jos_delay="0">
-            selamat datang di website
+             selamat datang di website
           </div>
         </div>
         <div
