@@ -50,7 +50,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
             data-jos_animation="flip-down"
             data-jos_delay="0.5"
           >
-            add life to your websites.
+            semoga menikmati
           </div>
         </div>
         <!-- <div></div> -->
