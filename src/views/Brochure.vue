@@ -50,8 +50,7 @@ const router = useRouter();
       data-jos_rootMargin_bottom="0%"
     >
       <div style="width: 60%; text-align: center; z-index: -1">
-        <b>T</b>his is a work of Art, <b>A</b>n In-house library, <b>R</b>eady
-        to power your next application ⚡
+        <b>T</b>his is a work of Art, <b>A</b>n In-house library, <b>S</b>iap mengabdi kepada rakyat ⚡
       </div>
     </div>
     <!-- faetures on why its better  -->
