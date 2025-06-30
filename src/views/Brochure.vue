@@ -136,14 +136,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Azka Naziih A. F</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Azka Naziih Al-Farosi</li>
                 <li>
-                  223141138
+                  223111138
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Pendidikan Agama Islam</li>
               </ul>
             </div>
           </div>
@@ -154,14 +154,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Nia Agustin</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Nia Agustin</li>
                 <li>
-                  223141138
+                  225231153
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Perbankan Syariah</li>
               </ul>
             </div>
           </div>
@@ -172,14 +172,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Dhika N. A</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Dhika Nur Azizah</li>
                 <li>
-                  223141138
+                  221211039
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Komunikasi Penyiaran Islam</li>
               </ul>
             </div>
           </div>
@@ -190,14 +190,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Desvina S. H</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Desvina Syalwa Haninda</li>
                 <li>
-                  223141138
+                  221141060
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Psikologi Islam</li>
               </ul>
             </div>
           </div>
@@ -208,14 +208,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Shintiya F</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Shintiya Fatmasari</li>
                 <li>
-                  223141138
+                  223111113
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Pendidikan Agama Islam</li>
               </ul>
             </div>
           </div>
@@ -226,14 +226,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Septi K. P</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Septi Kartika Putri</li>
                 <li>
-                  223141138
+                  226121273
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Pendidikan Bahasa Inggris</li>
               </ul>
             </div>
           </div>
@@ -244,14 +244,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Khaya S. N</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Khaya Sulfa Nabilah</li>
                 <li>
-                  223141138
+                  223151011
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Manajemen Pendidikan Islam</li>
               </ul>
             </div>
           </div>
@@ -262,14 +262,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-title">Salma W</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Arika Romadhona Sevira</li>
+                <li>Salma Walsyimah</li>
                 <li>
-                  223141138
+                  225211051
                 </li>
-                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+                <li>Manajemen Bisnis Syariah</li>
               </ul>
             </div>
           </div>
@@ -281,7 +281,7 @@ const router = useRouter();
           >
             <!-- related picture -->
             <img class="fe_img" src="@/assets/opensource.png" alt="" />
-            <div class="features-list-item-title">Azka Naziih A. F</div>
+            <div class="features-list-item-title">Ahmad H. T</div>
             <div
               class="features-list-item-text jos"
               data-jos_animation="no-transition"
@@ -290,9 +290,9 @@ const router = useRouter();
               data-intro_title="Anggota"
             >
               <ul>
-                <li>Azka Naziih Al-Farosi</li>
-                <li>223111138</li>
-                <li>Pendidikan Agama Islam</li>
+                <li>Ahmad Hidayatullah Tantasrisat</li>
+                <li>221141116</li>
+                <li>Psikologi Islam</li>
               </ul>
             </div>
           </div>
