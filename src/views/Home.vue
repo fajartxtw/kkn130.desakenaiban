@@ -17,7 +17,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         class="jos home_tit_mar"
         data-jos_animation="no-display"
         data-jos_invoke="heading"
-        data-nextScroll="Anggota"
+        data-nextScroll="features"
         data-intro_title="Introduction"
         style="margin-top: 4vw"
       >
