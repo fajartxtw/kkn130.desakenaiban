@@ -64,7 +64,7 @@ const router = useRouter();
 
     <div class="features" id="features">
       <div class="features-container">
-        <div class="features-title">Features</div>
+        <div class="features-title">Anggota</div>
         <div
           class="features-list jos"
           data-jos_stagger="skew-left"
@@ -80,7 +80,7 @@ const router = useRouter();
             <!-- box image -->
 
             <img class="fe_img" src="@/assets/lightweight.jpg" alt="" />
-            <div class="features-list-item-title">Lightweight</div>
+            <div class="features-list-item-title">Ikhsan A.F</div>
             <div
               class="features-list-item-text jos"
               data-jos_animation="no-transition"
