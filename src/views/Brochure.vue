@@ -79,7 +79,7 @@ const router = useRouter();
           >
             <!-- box image -->
 
-            <img class="fe_img" src="@/assets/lightweight.jpg" alt="" />
+            <img class="fe_img" src="@/assets/lightweight.png" alt="" />
             <div class="features-list-item-title">Ikhsan A.F</div>
             <div
               class="features-list-item-text jos"
