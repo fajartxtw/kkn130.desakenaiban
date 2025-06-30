@@ -79,7 +79,7 @@ const router = useRouter();
             <!-- box image -->
 
             <img class="fe_img" src="@/assets/lightweight.png" alt="" />
-            <div class="features-list-item-title">Ikhsan A.F</div>
+            <div class="features-list-item-title">Ikhsan A. F</div>
             <div
               class="features-list-item-text jos"
               data-jos_animation="no-transition"
@@ -89,9 +89,9 @@ const router = useRouter();
             >
               <!-- points -->
               <ul>
-                <li>Very lightweight, the library is &lt;2kb.</li>
-                <li>It does not require plugin addons to gain features.</li>
-                <li>Performance oriented & optimized.</li>
+                <li>Ikhsan Adi Firmansyah</li>
+                <li>225211244</li>
+                <li>Ketua</li>
               </ul>
             </div>
           </div>
