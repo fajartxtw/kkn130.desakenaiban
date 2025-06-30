@@ -85,7 +85,7 @@ const router = useRouter();
               data-jos_animation="no-transition"
               data-jos_invoke="heading"
               data-nextScroll="demo"
-              data-intro_title="Features"
+              data-intro_title="Anggota"
             >
               <!-- points -->
               <ul>
@@ -143,7 +143,7 @@ const router = useRouter();
               data-jos_animation="no-transition"
               data-jos_invoke="heading"
               data-nextScroll="demo"
-              data-intro_title="Features"
+              data-intro_title="Anggota"
             >
               <ul>
                 <li>Azka Naziih Al-Farosi</li>
