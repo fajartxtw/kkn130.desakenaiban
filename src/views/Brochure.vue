@@ -50,7 +50,7 @@ const router = useRouter();
       data-jos_rootMargin_bottom="0%"
     >
       <div style="width: 60%; text-align: center; z-index: -1">
-        <b>T</b>his is a work of Art, <b>A</b>n In-house library, <b>S</b>iap mengabdi kepada rakyat ⚡
+        <b>T</b>his is a work of Art, <b>A</b>n terobosan, <b>S</b>iap mengabdi kepada rakyat ⚡
       </div>
     </div>
     <!-- faetures on why its better  -->
@@ -102,12 +102,12 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/custom.jpg" alt="" />
-            <div class="features-list-item-title">Customizability</div>
+            <div class="features-list-item-title">Luthfiyah N. H</div>
             <div class="features-list-item-text">
               <ul>
-                <li>You can build really complex animations and sequences.</li>
-                <li>Fully customizable to its core</li>
-                <li>The only limit is your imagination.</li>
+                <li>Luthfiyah Nur Hidayah</li>
+                <li>222121210</li>
+                <li>Hukum Keluarga Islam</li>
               </ul>
             </div>
           </div>
@@ -118,14 +118,14 @@ const router = useRouter();
             data-jos_scrollDirection="down"
           >
             <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
-            <div class="features-list-item-title">Easy to use</div>
+            <div class="features-list-item-title">Arika R. S</div>
             <div class="features-list-item-text">
               <ul>
-                <li>Very easy & straight forward to use.</li>
+                <li>Arika Romadhona Sevira</li>
                 <li>
-                  Works with HTML/JS, React, Vue, Angular & other frameworks.
+                  223141138
                 </li>
-                <li>Get started in less than 5 minutes.</li>
+                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
               </ul>
             </div>
           </div>
@@ -137,7 +137,7 @@ const router = useRouter();
           >
             <!-- related picture -->
             <img class="fe_img" src="@/assets/opensource.png" alt="" />
-            <div class="features-list-item-title">Open Source</div>
+            <div class="features-list-item-title">Azka Naziih A. F</div>
             <div
               class="features-list-item-text jos"
               data-jos_animation="no-transition"
@@ -146,9 +146,9 @@ const router = useRouter();
               data-intro_title="Features"
             >
               <ul>
-                <li>This project is open source</li>
-                <li>The library is free to use</li>
-                <li>Anyone can contribute to the development.</li>
+                <li>Azka Naziih Al-Farosi</li>
+                <li>223111138</li>
+                <li>Pendidikan Agama Islam</li>
               </ul>
             </div>
           </div>
@@ -168,35 +168,35 @@ const router = useRouter();
         data-hover_data="Click to move to Playground"
       >
         <div class="more_details_title">
-          <div class="more_text">Test Demonstration</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test Demonstration</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test Demonstration</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test Demonstration</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test Demonstration</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test it in Playground</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test it in Playground</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
         <div class="more_details_title">
-          <div class="more_text">Test it in Playground</div>
+          <div class="more_text">See your self</div>
           <i class="fa-solid fa-arrow-right-long aroh"></i>
         </div>
       </div>
