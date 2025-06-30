@@ -17,7 +17,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         class="jos home_tit_mar"
         data-jos_animation="no-display"
         data-jos_invoke="heading"
-        data-nextScroll="features"
+        data-nextScroll="Anggota"
         data-intro_title="Introduction"
         style="margin-top: 4vw"
       >
@@ -61,7 +61,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         >
           <a href="#features" class="Button_1">Get Started</a>
           <a
-            href="https://github.com/jesvijonathan/JOS-Animation-Library/wiki"
+            href="https://www.instagram.com/kenaiban.journey/"
             target="_blank"
             class="Button_1"
             >Documentation</a
@@ -76,7 +76,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         data-jos_animation="zoom"
       >
         <a
-          href="https://github.com/jesvijonathan/JOS-Animation-Library/wiki#used-in"
+          href="https://www.instagram.com/kenaiban.journey/"
           target="_blank"
           class="showcase_it piece_1"
           data-hover_data="Projects made using JOS"
