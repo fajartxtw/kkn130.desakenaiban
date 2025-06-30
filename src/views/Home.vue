@@ -18,7 +18,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
         data-jos_animation="no-display"
         data-jos_invoke="heading"
         data-nextScroll="features"
-        data-intro_title="Introduction"
+        data-intro_title="Perkenalan"
         style="margin-top: 4vw"
       >
         <div
