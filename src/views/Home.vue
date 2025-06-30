@@ -11,7 +11,7 @@ import web8 from "@/assets/floating_websites/web8.webp";
 </script>
 
 <template>
-  <section id="perkenalan">
+  <section id="introduction">
     <div class="home_title">
       <div
         class="jos home_tit_mar"
