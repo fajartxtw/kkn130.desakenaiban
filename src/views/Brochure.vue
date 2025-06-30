@@ -201,6 +201,78 @@ const router = useRouter();
               </ul>
             </div>
           </div>
+
+          <div
+            class="features-list-item"
+            data-jos_rootMargin_bottom="40%"
+            data-jos_scrollDirection="down"
+          >
+            <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
+            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-text">
+              <ul>
+                <li>Arika Romadhona Sevira</li>
+                <li>
+                  223141138
+                </li>
+                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="features-list-item"
+            data-jos_rootMargin_bottom="40%"
+            data-jos_scrollDirection="down"
+          >
+            <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
+            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-text">
+              <ul>
+                <li>Arika Romadhona Sevira</li>
+                <li>
+                  223141138
+                </li>
+                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="features-list-item"
+            data-jos_rootMargin_bottom="40%"
+            data-jos_scrollDirection="down"
+          >
+            <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
+            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-text">
+              <ul>
+                <li>Arika Romadhona Sevira</li>
+                <li>
+                  223141138
+                </li>
+                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="features-list-item"
+            data-jos_rootMargin_bottom="40%"
+            data-jos_scrollDirection="down"
+          >
+            <img class="fe_img" src="@/assets/easytouse.jpg" alt="" />
+            <div class="features-list-item-title">Arika R. S</div>
+            <div class="features-list-item-text">
+              <ul>
+                <li>Arika Romadhona Sevira</li>
+                <li>
+                  223141138
+                </li>
+                <li>Pendidikan Guru Madrasah Ibtidiyah</li>
+              </ul>
+            </div>
+          </div>
           
           <div
             class="features-list-item"
