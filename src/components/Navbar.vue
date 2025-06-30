@@ -49,7 +49,7 @@ function hamb() {
         data-jos_duration="0.5"
         data-jos_once="true"
         data-hover_data="All the animation you need 🔥"
-        >JOS</a
+        >KKN 130</a
       >
       <div
         class="sub_section_title jos"
