@@ -91,7 +91,7 @@ const router = useRouter();
               <ul>
                 <li>Ikhsan Adi Firmansyah</li>
                 <li>225211244</li>
-                <li>Ketua</li>
+                <li>Manajemen  Bisnis Syariah</li>
               </ul>
             </div>
           </div>
