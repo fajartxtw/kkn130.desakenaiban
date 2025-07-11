@@ -61,8 +61,12 @@ onMounted(() => {
               data-jos_rootMargin_bottom="20%"
               data-jos_scrollDirection="down"
             >
-              Use JOS to add instant animation to elements of your website via
-              scroll intersection, scroll progress, scroll anchors points, etc.
+              Penyerahan Mahasiswa Kuliah Kerja Nyata (KKN) Kelompok 129 & 130 UIN Raden 
+              Mas Said Surakarta kepada pihak pemerintah Desa Kenaiban di laksanakan pada Rabu, 25 
+              Juni 2025, bertempat di Balai Desa Kenaiban, Kec. Juwiring Klaten. Penyerahan Mahasiswa 
+              KKN tersebut sekaligus sebagai simbol bahwa KKN UIN Raden Mas Said Surakarta telah di 
+              laksanakan. Hari pertama Pengabdian kepada masyarakat bertepatan dengan tanggal 
+              penyerahan Mahasiswa KKN Kepada Pemerintah Desa.  
             </div>
             <div
               class="intro_desc jos"
@@ -75,9 +79,11 @@ onMounted(() => {
               data-nextScroll="installation"
               data-intro_title="Demo"
             >
-              Scroll trigger work when element intersects a margin in the view
-              port. This allows users to to animate an element with reference to
-              the view port alone, making it easier for animating
+              Acara tersebut dihadiri oleh beberapa perangkat desa, salah satunya Pak Rosa selaku 
+              sekretaris desa kenaiban, serta Pak Hamdani selaku bendahara dari Desa Kenaiban, dan 
+              beberapa jajarannya. terdapat pula Dosen Pembimbing Lapangan (DPL) yaitu Ibu. Mariah 
+              Kibtiyah,S.Ag.M.Si selaku perwakilan dari UIN Raden Mas Said Surakarta, serta Mahasiswa 
+              KKN Desa Kenaiban. 
             </div>
             <div
               class="intro_desc jos"
@@ -87,11 +93,10 @@ onMounted(() => {
               data-jos_rootMargin_bottom="20%"
               data-jos_scrollDirection="down"
             >
-              JOS library comes with tons of inbuilt presets that can be used to
-              add beautiful animations. You can also customize the animation and
-              its function for every element individually for all elements. It
-              comes with a lot more customizable attributes and options to tweak
-              and fiddle with.
+              Mahasiswa KKN berjumlah 24 Mahasiswa, dengan pembagian 12 Mhasiswa di masing - masing kelompok baik kelompok 129 maupun 130. Dua kelompok KKN tersebut memiliki 
+              wilayah KKN yang berbeda tetap satu Desa tetapi berbeda Dusun, yang di mana kelompok 129 
+              di tempatkan di Dusun Kenaiban sedangkan kelompok 130 di tempatkan di dusun 
+              Karangpandan. KKN akan dilaksanakan selama 35 Hari dimulai dari 25 Juni - 31 Juli 2025. 
             </div>
             <div
               class="feature_button jos"
