@@ -93,10 +93,7 @@ onMounted(() => {
               data-jos_rootMargin_bottom="20%"
               data-jos_scrollDirection="down"
             >
-              Mahasiswa KKN berjumlah 24 Mahasiswa, dengan pembagian 12 Mhasiswa di masing - masing kelompok baik kelompok 129 maupun 130. Dua kelompok KKN tersebut memiliki 
-              wilayah KKN yang berbeda tetap satu Desa tetapi berbeda Dusun, yang di mana kelompok 129 
-              di tempatkan di Dusun Kenaiban sedangkan kelompok 130 di tempatkan di dusun 
-              Karangpandan. KKN akan dilaksanakan selama 35 Hari dimulai dari 25 Juni - 31 Juli 2025. 
+              Baca lebih lanjut disini
             </div>
             <div
               class="feature_button jos"
