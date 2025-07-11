@@ -83,7 +83,7 @@ onMounted(() => {
               sekretaris desa kenaiban, serta Pak Hamdani selaku bendahara dari Desa Kenaiban, dan 
               beberapa jajarannya. terdapat pula Dosen Pembimbing Lapangan (DPL) yaitu Ibu. Mariah 
               Kibtiyah,S.Ag.M.Si selaku perwakilan dari UIN Raden Mas Said Surakarta, serta Mahasiswa 
-              KKN Desa Kenaiban. 
+              KKN Desa Kenaiban. Baca lebih lanjut
             </div>
             <div
               class="intro_desc jos"
@@ -93,7 +93,7 @@ onMounted(() => {
               data-jos_rootMargin_bottom="20%"
               data-jos_scrollDirection="down"
             >
-              Baca lebih lanjut disini
+              .
             </div>
             <div
               class="feature_button jos"
