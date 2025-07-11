@@ -51,7 +51,7 @@ onMounted(() => {
               data-jos_delay="0"
               data-jos_rootMargin_bottom="20%"
             >
-              PENYERAHAN MAHASISWA KKN KELOMPOK 129 & 130 UIN RADEN MAS SAID SURAKARTA KEPADA PEMERINTAH DESA KENAIBAN
+              Penyerahan Mahasiswa KKN Kelompok 129 & 130 UIN Raden Mas Sid Surakarta Kepada Pemerintah Desa Kenaiban
             </div>
             <div
               class="intro_desc jos"
